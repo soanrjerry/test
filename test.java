@@ -10,7 +10,7 @@ public class qualityCheck {
     sum=sum+d;
     int count = 100;
     do{
-      System.out.println("i will print as long as i like";
+      System.out.println("i will print as long as i like");
     } while (count!=0)
   }
 }
